@@ -1,0 +1,4 @@
+#Tue Mar 02 23:56:58 EET 2021
+base.0=/Users/burakdemir/AndroidStudioProjects/Calculator2/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
